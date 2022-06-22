@@ -15,8 +15,8 @@ Images are used just to train the model on dummy data because we could not get r
 ***
 Installation Process
  
-1. First clone git repository.\n
-Write command in cmd \n
+1. First clone git repository.<br>
+Write command in cmd 
 command - git clone https://github.com/DakshKothari18/HackathonWCE
 
 2. Change directory to this folder
