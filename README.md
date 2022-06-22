@@ -49,7 +49,7 @@ Extract the zip file CroppedDataset.zip <br>
 
 After running the project. <br> 
 Go to localhost:8000/print <br>
-<img src="RESULTS/1.png"></img>
+<br>
 Upload the image of child from Dataset <br>
 
 Click Upload <br>
