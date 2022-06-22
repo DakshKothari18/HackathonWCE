@@ -16,45 +16,46 @@ Images are used just to train the model on dummy data because we could not get r
 Installation Process
  
 1. First clone git repository.<br>
-Write command in cmd 
+Write command in cmd <br>
 command - git clone https://github.com/DakshKothari18/HackathonWCE
 
-2. Change directory to this folder
-command - cd HackathonWCE  
+2. Change directory to this folder <br>
+command - cd HackathonWCE  <br>
 
-3. Create a Virtual Environment
-	- pip install virtualenvwrapper-win
+3. Create a Virtual Environment <br>
+	- pip install virtualenvwrapper-win <br>
 	- mkvirtualenv project
 
-4. Activate the Virtual Environment
-command - workon project
+4. Activate the Virtual Environment <br>
+command - workon project <br>
 
-5. Install Dependencies/Packages
-command - pip install -r requirements.txt
+5. Install Dependencies/Packages <br>
+command - pip install -r requirements.txt <br>
 
-6. Change directory to folder Frontend (Django)
-command - cd "Frontend (Django)"
+6. Change directory to folder Frontend (Django) <br>
+command - cd "Frontend (Django)" <br>
 
-7. Make Migrations and Migrate
-command - python manage.py makemigrations
-command - python manage.py migrate
+7. Make Migrations and Migrate <br>
+command - python manage.py makemigrations <br>
+command - python manage.py migrate <br>
 
-8. Run the project
-command - python manage.py runserver
+8. Run the project <br>
+command - python manage.py runserver <br>
 ***
 
 ***
 Demonstration
-Extract the zip file CroppedDataset.zip
+Extract the zip file CroppedDataset.zip <br>
 
-After running the project. 
-Go to localhost:8000/print
+After running the project. <br> 
+Go to localhost:8000/print <br>
+<img src="RESULTS/1.png"></img>
+Upload the image of child from Dataset <br>
 
-Upload the image of child from Dataset
-
-Click Upload
-
-See the results.
+Click Upload <br>
+<img src="RESULTS/2.png"></img>
+See the results. <br>
+<img src="RESULTS/3.png"></img>
 ***
 
 
